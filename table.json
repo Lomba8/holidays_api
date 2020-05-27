@@ -1,0 +1,266 @@
+[
+    null, [{
+        "0": "Settembre 201617 gg di lezione",
+        "1": "12",
+        "2": "lunedì",
+        "3": "Inizio attività scolastica",
+        "4": ""
+    }],
+    [{
+        "0": "Ottobre 201626 gg di lezione",
+        "1": "nessuna festività"
+    }],
+    [{
+        "0": "Novembre 201625 gg di lezione",
+        "1": "1",
+        "2": "martedì",
+        "3": "Tutti i santi",
+        "4": "nazionale"
+    }],
+    [{
+            "0": "Dicembre 201617 gg di lezione",
+            "1": "8",
+            "2": "giovedì",
+            "3": "Immacolata Concezione",
+            "4": "nazionale"
+        },
+        {
+            "0": "9",
+            "1": "venerdì",
+            "2": "Ponte dell\'Immacolata",
+            "3": ""
+        },
+        {
+            "0": "10",
+            "1": "sabato",
+            "2": "Ponte dell\'Immacolata",
+            "3": ""
+        },
+        {
+            "0": ""
+        },
+        {
+            "0": "24",
+            "1": "sabato",
+            "2": "Vacanze natalizie",
+            "3": ""
+        },
+        {
+            "0": "25",
+            "1": "domenica",
+            "2": "Natale",
+            "3": "nazionale"
+        },
+        {
+            "0": "26",
+            "1": "lunedì",
+            "2": "Santo Stefano",
+            "3": "nazionale"
+        },
+        {
+            "0": "27",
+            "1": "martedì",
+            "2": "Vacanze natalizie",
+            "3": ""
+        },
+        {
+            "0": "28",
+            "1": "mercoledì",
+            "2": "Vacanze natalizie",
+            "3": ""
+        },
+        {
+            "0": "29",
+            "1": "giovedì",
+            "2": "Vacanze natalizie",
+            "3": ""
+        },
+        {
+            "0": "30",
+            "1": "venerdì",
+            "2": "Vacanze natalizie",
+            "3": ""
+        },
+        {
+            "0": "31",
+            "1": "sabato",
+            "2": "Vacanze natalizie",
+            "3": ""
+        }
+    ],
+    [{
+            "0": "Gennaio 201720 gg di lezione",
+            "1": "1",
+            "2": "domenica",
+            "3": "Capodanno",
+            "4": "nazionale"
+        },
+        {
+            "0": "2",
+            "1": "lunedì",
+            "2": "Vacanze natalizie",
+            "3": ""
+        },
+        {
+            "0": "3",
+            "1": "martedì",
+            "2": "Vacanze natalizie",
+            "3": ""
+        },
+        {
+            "0": "4",
+            "1": "mercoledì",
+            "2": "Vacanze natalizie",
+            "3": ""
+        },
+        {
+            "0": "5",
+            "1": "giovedì",
+            "2": "Vacanze natalizie",
+            "3": ""
+        },
+        {
+            "0": "6",
+            "1": "venerdì",
+            "2": "Epifania",
+            "3": "nazionale"
+        },
+        {
+            "0": "7",
+            "1": "sabato",
+            "2": "Vacanze natalizie",
+            "3": ""
+        }
+    ],
+    [{
+            "0": "Febbraio 201722 gg di lezione",
+            "1": "27",
+            "2": "lunedì",
+            "3": "Vacanze di Carnevale",
+            "4": ""
+        },
+        {
+            "0": "28",
+            "1": "martedì",
+            "2": "Vacanze di Carnevale",
+            "3": ""
+        }
+    ],
+    [{
+        "0": "Marzo 201726 gg di lezione",
+        "1": "1",
+        "2": "mercoledì",
+        "3": "Vacanze di Carnevale(mercoledì delle ceneri)",
+        "4": ""
+    }],
+    [{
+            "0": "Aprile 201719 gg di lezione",
+            "1": "13",
+            "2": "giovedì",
+            "3": "Vacanze pasquali",
+            "4": ""
+        },
+        {
+            "0": "14",
+            "1": "venerdì",
+            "2": "Vacanze pasquali",
+            "3": ""
+        },
+        {
+            "0": "15",
+            "1": "sabato",
+            "2": "Vacanze pasquali",
+            "3": ""
+        },
+        {
+            "0": "16",
+            "1": "domenica",
+            "2": "Pasqua",
+            "3": ""
+        },
+        {
+            "0": "17",
+            "1": "lunedì",
+            "2": "Lunedì dell\'Angelo(Pasquetta)",
+            "3": "nazionale"
+        },
+        {
+            "0": "18",
+            "1": "martedì",
+            "2": "Vacanze pasquali",
+            "3": ""
+        },
+        {
+            "0": ""
+        },
+        {
+            "0": "25",
+            "1": "martedì",
+            "2": "Anniversariodella Liberazione",
+            "3": "nazionale"
+        }
+    ],
+    [{
+        "0": "Maggio 201726 gg di lezione",
+        "1": "1",
+        "2": "lunedì",
+        "3": "Primo maggio(festa del lavoro)",
+        "4": "nazionale"
+    }],
+    [{
+            "0": "Giugno 20178 gg di lezione",
+            "1": "2",
+            "2": "venerdì",
+            "3": "Festa nazionaledella Repubblica",
+            "4": "nazionale"
+        },
+        {
+            "0": ""
+        },
+        {
+            "0": "10",
+            "1": "sabato",
+            "2": "Fine attività scolastica",
+            "3": ""
+        },
+        {
+            "0": "30",
+            "1": "venerdì",
+            "2": "Fine attività scolastica(scuola dell\'Infanzia)",
+            "3": ""
+        }
+    ],
+    [{
+            "0": "Verona (281)",
+            "1": "Conegliano (52)"
+        },
+        {
+            "0": "Venezia (240)",
+            "1": "Castelfranco V. (47)"
+        },
+        {
+            "0": "Padova (223)",
+            "1": "Chioggia (44)"
+        },
+        {
+            "0": "Vicenza (133)",
+            "1": "Vittorio Veneto (38)"
+        },
+        {
+            "0": "Treviso (107)",
+            "1": "Montebelluna (37)"
+        },
+        {
+            "0": "Rovigo (60)",
+            "1": "Legnago (36)"
+        },
+        {
+            "0": "Bassano del G. (54)",
+            "1": "San Donà di P. (35)"
+        },
+        {
+            "0": "Belluno (54)",
+            "1": "Schio (35)"
+        }
+    ]
+]
