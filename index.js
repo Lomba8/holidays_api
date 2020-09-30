@@ -1,5 +1,5 @@
 var scraper = require('table-scraper');
-//import extractDate from 'extract-date';
+import extractDate from 'extract-date';
 
 var date_ob = new Date()
 let anno_node = date_ob.getMonth() > 6 ? date_ob.getFullYear() : date_ob.getFullYear() - 1;
@@ -30,7 +30,7 @@ scraper
                     //console.log(anno + ' ' + mese + ' ' + giorno)
 
                 try {
-                    // date.push(extractDate(data, { locale: 'it' })[0].date)
+                    date.push(extractDate(data, { locale: 'it' })[0].date)
                 } catch (error) {
 
                 }
