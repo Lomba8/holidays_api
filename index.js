@@ -44,7 +44,7 @@ scraper
 
 
         date.shift() //per torgliere il giorno di inizio scuola
-        date.pop() //per torgliere penultimo giorno della tabella (fine scuola superiore)
+            //date.pop() //per torgliere penultimo giorno della tabella (fine scuola superiore)
         date.pop().slice() //per torgliere ultimo giorno della tabella (fine scuola infanzia)
 
     });

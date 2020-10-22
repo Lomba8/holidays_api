@@ -12,6 +12,7 @@
         "esm": "^3.2.25",
         "express": "^4.17.1",
         "extract-date": "^2.8.2",
+        "got": "^11.7.0",
         "table-scraper": "^0.1.0"
     },
     "devDependencies": {}
